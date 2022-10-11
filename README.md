@@ -28,4 +28,24 @@ Student Management System  created using Java and MySQL in netbeans.
 6. Download the code and run with the admin details.
 
 
-## Interface
+# Interface
+
+## Login
+
+![Screenshot (26)](https://user-images.githubusercontent.com/106919722/195065850-3d57f403-679d-4ecd-ac6f-0e0ebdd4a357.png)
+
+## Home
+
+![Screenshot (27)](https://user-images.githubusercontent.com/106919722/195065966-37da511c-d3a7-4cd9-bea4-608b38791f82.png)
+
+## Add student
+
+![Screenshot (31)](https://user-images.githubusercontent.com/106919722/195066059-f4184fa9-e150-4e99-9889-e772f1df93c7.png)
+
+## Update and Delete Student
+
+![Screenshot (29)](https://user-images.githubusercontent.com/106919722/195066208-6806a67b-7f81-4721-af93-dda195f3d16f.png)
+
+## View STudent
+
+![Screenshot (32)](https://user-images.githubusercontent.com/106919722/195066295-bc8dbad7-d98f-4d6d-bdaa-a3f60f326988.png)
